@@ -1,5 +1,6 @@
 .gitignore
 
+**/packages/
 #**/bin/
 **/obj/
 **/.vs/
