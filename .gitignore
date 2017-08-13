@@ -4,7 +4,7 @@
 #**/bin/
 **/obj/
 **/.vs/
-**/Properties/
+#**/Properties/
 #**/Demos/
 #*.pptx
 #*.zip
